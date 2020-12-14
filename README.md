@@ -1,5 +1,5 @@
 # Covid19-Analysis Coursera Project:
-The course materials belong entirely to Coursera. Also, the COVID19 dataset, published by John Hopkins University. The answers are the only things that show my trials.
+The course materials belong entirely to Coursera. Also, the COVID19 dataset, published by John Hopkins University. The analysis is the only things that show my trials.
 
 ## List of Libraries used
 * pandas
