@@ -9,3 +9,5 @@ The course materials belong entirely to Coursera. Also, the COVID19 dataset, pub
 
 ## Project Objective:
 Merge the two datasets to see if there is any relationship between the spread of the the virus in a country and how happy people are, living in that country.
+
+Derive the relationship between the spread of the virus in a country and how people are happy living in that country
